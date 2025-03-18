@@ -59,27 +59,27 @@ Each Among Us map has unique layouts, tasks, and security features.
 
 ### 1. The Skeld
 
-A spaceship map with security cameras and a clear layout.
+👉 A spaceship map with security cameras and a clear layout.
 
-Best for beginners learning the game.
+👉 Best for beginners learning the game.
 
 ### 2. MIRA HQ
 
-A high-tech headquarters with no cameras but has a unique door log system.
+👉 A high-tech headquarters with no cameras but has a unique door log system.
 
-Ventilation system is interconnected, making impostor movement easier.
+👉 Ventilation system is interconnected, making impostor movement easier.
 
 ### 3. Polus
 
-A snowy research station with a vitals monitor and an open map layout.
+👉 A snowy research station with a vitals monitor and an open map layout.
 
-Great for larger groups, but difficult for impostors.
+👉 Great for larger groups, but difficult for impostors.
 
 ### 4. The Airship
 
-The largest map with ladders, moving platforms, and multiple starting areas.
+👉 The largest map with ladders, moving platforms, and multiple starting areas.
 
-Requires strategic movement due to its size.
+👉 Requires strategic movement due to its size.
 
 ---
 ## 🎮 How to Play [Among Us](https://amongus-online.io/)
